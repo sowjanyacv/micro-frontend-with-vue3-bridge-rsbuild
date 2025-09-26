@@ -1,6 +1,6 @@
 # Micro Frontend with Rsbuild and Vue3 Bridge
 
-This repository is a sample project designed to demonstrate the Micro Frontend Architecture using Vue 3, Rsbuild, and Module Federation along with VUe3 bridge to build modular applications. Each micro frontend runs with its own Vue instance, initialized separately via `entry.js`, rather than sharing the host's Vue instance.
+This repository is a sample project designed to demonstrate the Micro Frontend Architecture using Vue 3, Rsbuild, and Module Federation along with Vue3 bridge to build modular applications. Each micro frontend runs with its own Vue instance, initialized separately via `entry.js`, rather than sharing the host's Vue instance.
 
 Additionally, this project utilizes a Route Manifest to dynamically define and manage routing for different micro frontends. The Route Manifest is responsible for:
 
